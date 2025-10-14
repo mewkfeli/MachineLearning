@@ -1,0 +1,3 @@
+0 hamster
+1 chinchillas
+2 rat

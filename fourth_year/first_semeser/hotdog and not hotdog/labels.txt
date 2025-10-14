@@ -1,0 +1,2 @@
+0 Hotdog
+1 Not hotdog
